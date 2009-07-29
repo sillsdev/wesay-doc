@@ -1,0 +1,43 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Documents and Settings\user\Desktop\WeSay CHM Documentation\WeSay Documentation.chm
+
+HHC5003: Error: Compilation failed while compiling doc_files\image009.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image012.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image028.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image039.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image061.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image069.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image072.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image082.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image084.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image088.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image090.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image092.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image096.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image098.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image102.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image104.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image108.jpg.
+HHC5003: Error: Compilation failed while compiling doc_files\image111.jpg.
+
+
+The following files were not compiled:
+doc_files\image009.jpg
+doc_files\image012.jpg
+doc_files\image028.jpg
+doc_files\image039.jpg
+doc_files\image061.jpg
+doc_files\image069.jpg
+doc_files\image072.jpg
+doc_files\image082.jpg
+doc_files\image084.jpg
+doc_files\image088.jpg
+doc_files\image090.jpg
+doc_files\image092.jpg
+doc_files\image096.jpg
+doc_files\image098.jpg
+doc_files\image102.jpg
+doc_files\image104.jpg
+doc_files\image108.jpg
+doc_files\image111.jpg
